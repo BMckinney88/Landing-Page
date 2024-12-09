@@ -5,13 +5,24 @@ html {
 header {
     color: #f9faf8;
     font-size: 24px;
+    margin-left: 110px;
+    margin-top: 30px;
+    font-weight: 900;
 }
 nav {
     color: #e5e7eb;
     font-size: 18px;
     text-align: right;
-    margin-top: -30px;
+    margin-top: -25px;
+    margin-right: 210px;
 }
 a {
-    padding: 5px;
+    padding: 10px;
+}
+p {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    margin-top: 150px;
+    margin-left: 110px;
 }
