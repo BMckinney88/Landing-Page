@@ -19,3 +19,15 @@ nav {
 a {
     padding: 10px;
 }
+div {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    margin-top: 110px;
+    margin-left: 110px;
+}
+p {
+    margin-left: 110px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
