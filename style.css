@@ -60,3 +60,10 @@ h1 {
     text-align: center;
     padding: 150px;
 }
+h1 img {
+    padding: 220px;
+    margin-left: -250px;
+    margin-right: 650px;
+    width: 200px;
+    height: 200px;
+}
