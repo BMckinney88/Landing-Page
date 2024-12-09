@@ -52,6 +52,8 @@ button {
 }
 h1 {
     color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
     background-color: #f9faf8;
     margin-left: -10px;
     margin-right: -8px;
