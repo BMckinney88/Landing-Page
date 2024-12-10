@@ -41,6 +41,7 @@ img {
 button {
     margin-left: 110px;
     margin-top: -120px;
+    margin-bottom: -90px;
     width: 140px;
     height: 40px;
     background-color: #3882f6;
@@ -50,11 +51,9 @@ button {
     color: #f9faf8;
     font-weight: 900;
 }
-section h1 {
+h1 {
     text-align: center;
-    text-indent: 10px;
     background-color: #f9faf8;
-    margin-top: 80px;
     margin-left: -10px;
     margin-right: -8px;
 }
