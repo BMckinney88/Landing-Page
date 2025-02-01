@@ -51,9 +51,15 @@ button {
     color: #f9faf8;
     font-weight: 900;
 }
-.information {
+.part2 {
     background-color: #f9faf8;
     margin-left: -7px;
     margin-right: -8px;
     height: 550px;
+}
+.information {
+    color: #1f2937;
+    text-align: center;
+    font-weight: 900;
+    font-size: 36px;
 }
