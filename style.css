@@ -1,11 +1,12 @@
 html {
     background-color: #1f2937;
     font-family: 'Roboto', sans-serif;
+    margin-left: -180px;
 }
 header {
     color: #f9faf8;
     font-size: 24px;
-    margin-left: 110px;
+    margin-left: 420px;
     margin-top: 30px;
     font-weight: 900;
 }
@@ -14,21 +15,21 @@ nav {
     font-size: 18px;
     text-align: right;
     margin-top: -25px;
-    margin-right: 210px;
+    margin-right: 75px;
 }
 a {
     padding: 10px;
 }
-div {
+.website {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
     margin-top: 90px;
-    margin-left: 110px;
+    margin-left: 420px;
 }
-p {
-    margin-left: 110px;
-    margin-top: -20px;
+.subtext {
+    margin-left: 420px;
+    margin-top: -10px;
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -36,11 +37,12 @@ img {
     width: 500px;
     height: 250px;
     margin-top: -250px;
-    margin-left: 630px;
+    margin-bottom: 40px;
+    margin-left: 930px;
 }
 button {
-    margin-left: 110px;
-    margin-top: -100px;
+    margin-left: 420px;
+    margin-top: -110px;
     width: 140px;
     height: 40px;
     background-color: #3882f6;
@@ -50,21 +52,27 @@ button {
     color: #f9faf8;
     font-weight: 900;
 }
-h1 {
+.part2 {
+    background-color: #f9faf8;
+    width: 1468px;
+    height: 950px;
+    padding-left: 50px;
+    margin-left: -5px;
+}
+.information {
     color: #1f2937;
     text-align: center;
     font-size: 36px;
     font-weight: 900;
-    background-color: #f9faf8;
-    margin-bottom: -50px;
-    margin-left: -10px;
-    margin-right: -8px;
-    padding: 50px;
+    padding-top: 50px;
+    margin-bottom: 550px;
+    margin-left: 20px;
+    margin-right: -10px;
 }
 h1 img {
     padding: 450px;
-    margin-top: -390px;
-    margin-left: -190px;
+    margin-top: -2590px;
+    margin-left: -30px;
     margin-right: 600px;
     width: 150px;
     height: 150px;
@@ -76,12 +84,11 @@ h1 p{
     font-weight: 100;
 }
 h2 img {
+    padding: 450px;
     width: 150px;
     height: 150px;
-    margin-top: -260px;
-    margin-left: 500px;
-    padding-top: -550px;
-    padding-bottom: 263px;
+    margin-top: -3915px;
+    margin-left: 170px;
 }
 h2 p {
     color: #1f2937;
@@ -91,12 +98,11 @@ h2 p {
     text-align: center;
 }
 h3 img {
+    padding: 450px;
     width: 150px;
     height: 150px;
-    margin-left: 700px;
-    margin-top: -280px;
-    padding-top: -550px;
-    padding-bottom: 277px;
+    margin-left: 370px;
+    margin-top: -950px;
 }
 h3 p {
     color: #1f2937;
@@ -106,12 +112,11 @@ h3 p {
     font-weight: 100;
 }
 h4 img {
+    padding: 450px;
     width: 150px;
     height: 150px;
-    margin-left: 900px;
-    margin-top: -301px;
-    padding-top: -550px;
-    padding-bottom: 277px;
+    margin-left: 570px;
+    margin-top: -972px;
 }
 h4 p {
     color:#1f2937;
@@ -119,4 +124,8 @@ h4 p {
     margin-left: 620px;
     margin-top: -290px;
     font-weight: 100;
+}
+.quote {
+    background-color: #e5e7eb;
+
 }
