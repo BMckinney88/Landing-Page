@@ -63,3 +63,9 @@ button {
     font-weight: 900;
     font-size: 36px;
 }
+.random1 img {
+    width: 150px;
+    height: 150px;
+    padding-top: 250px;
+    margin-left: 300px;
+}
