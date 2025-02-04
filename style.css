@@ -156,3 +156,15 @@ button {
     margin-left: 720px;
     position: relative; top: -45px;
 }
+.part5 {
+    background-color: #1f2937;
+    height: 90px;
+    margin-left: -7px;
+    margin-right: -8px;
+    margin-top: 50px;
+    text-align: center;
+    color: #f9faf8;
+}
+.copy {
+    position: relative; top: 45px;
+}
